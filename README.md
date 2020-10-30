@@ -1,4 +1,4 @@
-# Implement-a-Histogram-equalization-and-a-File-Crawler-using-C++
+# Implement-a-Histogram-equalization-using-C++
 
 1) Implement a Histogram equalization from scratch using C++
        Inroduction:
